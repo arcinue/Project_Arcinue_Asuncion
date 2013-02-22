@@ -1,0 +1,47 @@
+# depslib dependency file v1.0
+1360504786 source:c:\users\temp.arcinue\desktop\project_arcinue_asuncion\project.cpp
+	"Project.h"
+
+1360504140 c:\users\temp.arcinue\desktop\project_arcinue_asuncion\project.h
+	<iostream>
+	<cstdlib>
+	"math.h"
+
+1360504144 source:c:\users\temp.arcinue\desktop\project_arcinue_asuncion\main.cpp
+	<iostream>
+	<cstdlib>
+	"Project.h"
+
+1361136668 source:d:\project_arcinue_asuncion\project.cpp
+	"Project.h"
+
+1361134728 d:\project_arcinue_asuncion\project.h
+	<iostream>
+	<cstdlib>
+	"math.h"
+
+1361134736 source:d:\project_arcinue_asuncion\main.cpp
+	<iostream>
+	<cstdlib>
+	"Project.h"
+
+1361134736 source:c:\users\arcinue family\project_arcinue_asuncion\main.cpp
+	<iostream>
+	<cstdlib>
+	"Project.h"
+
+1361187567 c:\users\arcinue family\project_arcinue_asuncion\project.h
+	<iostream>
+	<cstdlib>
+	"math.h"
+	<string>
+	<vector>
+	<fstream>
+	<sstream>
+	<string.h>
+	<iomanip>
+	<set>
+
+1361187633 source:c:\users\arcinue family\project_arcinue_asuncion\project.cpp
+	"Project.h"
+
