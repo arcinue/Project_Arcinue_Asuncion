@@ -7,8 +7,8 @@ const string problem[]={"Multiples of 3 and 5",
 "Even Fibonacci Numbers","Largest prime factor","Largest palindrome product","Smallest multiple","Sum square difference",
 "10001st prime","Largest product in a series","Special Pythagorean triplet"," Summation of primes","Largest product in a grid"
 ,"Highly divisible triangular number","Large sum","Longest Collatz sequence","Diophantine reciprocals A","Power digit sum"
-,"Number letter counts","Maximum path sum I","Counting Sundays","Factorial digit sum","Exit"};
-const int Num_Problems=20;
+,"Number letter counts","Maximum path sum I","Counting Sundays","Factorial digit sum","Name Scores","Exit"};
+const int Num_Problems=21;
 const int Exit=Num_Problems+1;
 
 int main()
@@ -84,6 +84,9 @@ int main()
                 break;
             case 20:
                 proj.factorial_digit_sum();
+                break;
+            case 21:
+                proj.name_scores();
                 break;
             case Exit:
                 done=true;

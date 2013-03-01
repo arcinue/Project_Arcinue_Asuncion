@@ -45,3 +45,43 @@
 1361187633 source:c:\users\arcinue family\project_arcinue_asuncion\project.cpp
 	"Project.h"
 
+1362131514 source:c:\documents and settings\all users\documents\project_arcinue_asuncion\main.cpp
+	<iostream>
+	<cstdlib>
+	"Project.h"
+
+1362131372 c:\documents and settings\all users\documents\project_arcinue_asuncion\project.h
+	<iostream>
+	<cstdlib>
+	"math.h"
+	<string>
+	<vector>
+	<fstream>
+	<sstream>
+	<string.h>
+	<iomanip>
+	<set>
+
+1362131422 source:c:\documents and settings\all users\documents\project_arcinue_asuncion\project.cpp
+	"Project.h"
+
+1362131514 source:c:\documents and settings\admin\my documents\github\project_arcinue_asuncion\main.cpp
+	<iostream>
+	<cstdlib>
+	"Project.h"
+
+1362131372 c:\documents and settings\admin\my documents\github\project_arcinue_asuncion\project.h
+	<iostream>
+	<cstdlib>
+	"math.h"
+	<string>
+	<vector>
+	<fstream>
+	<sstream>
+	<string.h>
+	<iomanip>
+	<set>
+
+1362132010 source:c:\documents and settings\admin\my documents\github\project_arcinue_asuncion\project.cpp
+	"Project.h"
+

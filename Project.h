@@ -43,6 +43,7 @@ class Project
         void counting_sundays();
         void factorial_digit_sum();
             int sumDigits(string s);
+        void name_scores();
 
     protected:
     private:
