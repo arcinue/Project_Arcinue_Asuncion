@@ -44,6 +44,8 @@ class Project
         void factorial_digit_sum();
             int sumDigits(string s);
         void name_scores();
+        void first_1000_digit_fibonacci();
+        void truncable_primes();
 
     protected:
     private:
