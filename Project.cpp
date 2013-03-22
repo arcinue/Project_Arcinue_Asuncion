@@ -5,13 +5,7 @@ int day,month,year;
 #define LIMIT	1000
 bool composite[MAX + 1];
 vector<int> primes;
-int term = 3;
-float a = 1;
-float b = 1;
-float c = a + b;
-float ap = 0;
-float bp = 0;
-float cp = 0;
+
 Project::Project()
 {
     //ctor
@@ -682,6 +676,13 @@ void Project::name_scores()
         }
     cout<<score<<endl;
 }
+int term = 3;
+float a = 1;
+float b = 1;
+float c = a + b;
+float ap = 0;
+float bp = 0;
+float cp = 0;
 
 int nextTerms()
 {
@@ -711,7 +712,8 @@ int numsDigits(int num)
     int digits = 0;
     if(num < 0)
         num = -num;
-    while(num > 0) {
+    while(num > 0)
+    {
         digits++;
         num /= 10;
     }
@@ -763,6 +765,6 @@ void Project::truncable_primes()
             total += i;
     }
     cout << total << endl;
-
 }
+
 

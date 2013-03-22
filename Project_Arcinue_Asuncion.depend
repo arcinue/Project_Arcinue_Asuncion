@@ -65,12 +65,12 @@
 1362131422 source:c:\documents and settings\all users\documents\project_arcinue_asuncion\project.cpp
 	"Project.h"
 
-1363767360 source:c:\documents and settings\admin\my documents\github\project_arcinue_asuncion\main.cpp
+1363937691 source:c:\documents and settings\admin\my documents\github\project_arcinue_asuncion\main.cpp
 	<iostream>
 	<cstdlib>
 	"Project.h"
 
-1363767360 c:\documents and settings\admin\my documents\github\project_arcinue_asuncion\project.h
+1363937691 c:\documents and settings\admin\my documents\github\project_arcinue_asuncion\project.h
 	<iostream>
 	<cstdlib>
 	"math.h"
@@ -82,6 +82,6 @@
 	<iomanip>
 	<set>
 
-1363768704 source:c:\documents and settings\admin\my documents\github\project_arcinue_asuncion\project.cpp
+1363938824 source:c:\documents and settings\admin\my documents\github\project_arcinue_asuncion\project.cpp
 	"Project.h"
 
